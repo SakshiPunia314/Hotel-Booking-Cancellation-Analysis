@@ -1,4 +1,5 @@
-Hotel Booking Cancellation Analysis	Oct 24
+Hotel Booking Cancellation Analysis
+
 -Analyzed booking data for City and Resort Hotels using Python to identify factors driving cancellations. 
 -Utilized Python, pandas, and matplotlib to conduct exploratory data analysis and create visualizations.
 -Developed pricing and marketing strategies to reduce cancellations and improve revenue. 
